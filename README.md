@@ -1,4 +1,3 @@
-# indira-gold-mobile
 # 📱 Aplicación de Gestión de Negocios / Business Management App
 
 Aplicación móvil desarrollada con **React Native** y **Redux Toolkit**, conectada a un backend personalizado con **MongoDB** y **Express**. Permite la gestión completa de un negocio: productos, ventas, clientes, estadísticas y mucho más.
